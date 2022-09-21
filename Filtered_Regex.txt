@@ -1,3 +1,7 @@
+!##NEW LIST##!
+^doubling+
+
+!##OLD LIST##!
 ^ +$
 ^ *doublin your money, \d+m left come+ *$
 ^ *use.+hosts - dont fall for scammers *$
