@@ -1,3 +1,3 @@
-^(vegas|raise|gamble|rng|roll|trusted) \d{3,}$
+^(dice|vegas|raise|gamble|rng|roll|trusted) \w{3,}$
 ^veg [a-z]\d[a-z]\d$
 ^(frost) \w{4}$
